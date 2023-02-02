@@ -1,0 +1,1298 @@
+{
+    "Julie Dunkel": {
+        "team_name": "Kansas City Royals",
+        "primary": "Kansas City Royals",
+        "secondary": "Kansas City Royals",
+        "img_filename": "generic_8.png"
+    },
+    "Debby Nagasawa": {
+        "team_name": "Kansas City Royals",
+        "primary": "Kansas City Royals",
+        "secondary": "Kansas City Royals",
+        "img_filename": "generic_7.png"
+    },
+    "Barbara Jones": {
+        "team_name": "Kansas City Royals",
+        "primary": "Kansas City Royals",
+        "secondary": "Kansas City Royals",
+        "img_filename": "generic_10.png"
+    },
+    "Parker Collum": {
+        "team_name": "Kansas City Royals",
+        "primary": "Kansas City Royals",
+        "secondary": "Kansas City Royals",
+        "img_filename": "generic_4.png"
+    },
+    "Horace Young": {
+        "team_name": "Kansas City Royals",
+        "primary": "Kansas City Royals",
+        "secondary": "Kansas City Royals",
+        "img_filename": "generic_3.png"
+    },
+    "Shane Smith": {
+        "team_name": "Kansas City Royals",
+        "primary": "Kansas City Royals",
+        "secondary": "Kansas City Royals",
+        "img_filename": "generic_5.png"
+    },
+    "Artie Pimbleton": {
+        "team_name": "Kansas City Royals",
+        "primary": "Kansas City Royals",
+        "secondary": "Kansas City Royals",
+        "img_filename": "generic_2.png"
+    },
+    "Marky Dubois": {
+        "team_name": "Kansas City Royals",
+        "primary": "Kansas City Royals",
+        "secondary": "Kansas City Royals",
+        "img_filename": "Marky.png"
+    },
+    "Stacy Gordon": {
+        "team_name": "Kansas City Royals",
+        "primary": "Kansas City Royals",
+        "secondary": "Kansas City Royals",
+        "img_filename": "generic_11.png"
+    },
+    "Henri Deschenes": {
+        "team_name": "Super-Duper Bombers",
+        "primary": "Custom Team White",
+        "secondary": "Custom Team Red",
+        "img_filename": "generic_2.png"
+    },
+    "Stan Olafson": {
+        "team_name": "Super-Duper Bombers",
+        "primary": "Custom Team White",
+        "secondary": "Custom Team Red",
+        "img_filename": "generic_6.png"
+    },
+    "Grace Tipton": {
+        "team_name": "Super-Duper Bombers",
+        "primary": "Custom Team White",
+        "secondary": "Custom Team Red",
+        "img_filename": "generic_12.png"
+    },
+    "Hillary Vargas": {
+        "team_name": "Super-Duper Bombers",
+        "primary": "Custom Team White",
+        "secondary": "Custom Team Red",
+        "img_filename": "generic_7.png"
+    },
+    "Jim Kiley": {
+        "team_name": "Super-Duper Bombers",
+        "primary": "Custom Team White",
+        "secondary": "Custom Team Red",
+        "img_filename": "generic_2.png"
+    },
+    "Tracy Hoban": {
+        "team_name": "Super-Duper Bombers",
+        "primary": "Custom Team White",
+        "secondary": "Custom Team Red",
+        "img_filename": "generic_10.png"
+    },
+    "Randolph Glueckert": {
+        "team_name": "Super-Duper Bombers",
+        "primary": "Custom Team White",
+        "secondary": "Custom Team Red",
+        "img_filename": "generic_1.png"
+    },
+    "Colleen Klinker": {
+        "team_name": "Super-Duper Bombers",
+        "primary": "Custom Team White",
+        "secondary": "Custom Team Red",
+        "img_filename": "generic_12.png"
+    },
+    "Michiko Adachi": {
+        "team_name": "Super-Duper Bombers",
+        "primary": "Custom Team White",
+        "secondary": "Custom Team Red",
+        "img_filename": "generic_10.png"
+    },
+    "Jay Green": {
+        "team_name": "Oakland Athletics",
+        "primary": "Oakland Athletics",
+        "secondary": "Oakland Athletics",
+        "img_filename": "generic_1.png"
+    },
+    "Nomar Garciaparra": {
+        "team_name": "Oakland Athletics",
+        "primary": "Oakland Athletics",
+        "secondary": "Oakland Athletics",
+        "img_filename": "Nomar.png"
+    },
+    "Jason Kendall": {
+        "team_name": "Oakland Athletics",
+        "primary": "Oakland Athletics",
+        "secondary": "Oakland Athletics",
+        "img_filename": "Jason_Kendall.png"
+    },
+    "Tanya Uchida": {
+        "team_name": "Oakland Athletics",
+        "primary": "Oakland Athletics",
+        "secondary": "Oakland Athletics",
+        "img_filename": "generic_7.png"
+    },
+    "Ingrid Dahlman": {
+        "team_name": "Oakland Athletics",
+        "primary": "Oakland Athletics",
+        "secondary": "Oakland Athletics",
+        "img_filename": "generic_8.png"
+    },
+    "Raquel Cullen": {
+        "team_name": "Oakland Athletics",
+        "primary": "Oakland Athletics",
+        "secondary": "Oakland Athletics",
+        "img_filename": "generic_12.png"
+    },
+    "Tony Gwynn": {
+        "team_name": "Oakland Athletics",
+        "primary": "Oakland Athletics",
+        "secondary": "Oakland Athletics",
+        "img_filename": "Tony_Gwynn.png"
+    },
+    "Annie Frazier": {
+        "team_name": "Oakland Athletics",
+        "primary": "Oakland Athletics",
+        "secondary": "Oakland Athletics",
+        "img_filename": "Annie.png"
+    },
+    "Dominic Hoskins": {
+        "team_name": "Oakland Athletics",
+        "primary": "Oakland Athletics",
+        "secondary": "Oakland Athletics",
+        "img_filename": "generic_5.png"
+    },
+    "Leah Wayne": {
+        "team_name": "New York Mets",
+        "primary": "New York Mets",
+        "secondary": "New York Mets",
+        "img_filename": "generic_7.png"
+    },
+    "Juan Gonzalez": {
+        "team_name": "New York Mets",
+        "primary": "New York Mets",
+        "secondary": "New York Mets",
+        "img_filename": "Juan.png"
+    },
+    "Shawn Green": {
+        "team_name": "New York Mets",
+        "primary": "New York Mets",
+        "secondary": "New York Mets",
+        "img_filename": "Shawn.png"
+    },
+    "Kristen Sullivan": {
+        "team_name": "New York Mets",
+        "primary": "New York Mets",
+        "secondary": "New York Mets",
+        "img_filename": "generic_11.png"
+    },
+    "Wendy Parsons": {
+        "team_name": "New York Mets",
+        "primary": "New York Mets",
+        "secondary": "New York Mets",
+        "img_filename": "generic_11.png"
+    },
+    "Robby Bocko": {
+        "team_name": "New York Mets",
+        "primary": "New York Mets",
+        "secondary": "New York Mets",
+        "img_filename": "generic_3.png"
+    },
+    "Scotty Roth": {
+        "team_name": "New York Mets",
+        "primary": "New York Mets",
+        "secondary": "New York Mets",
+        "img_filename": "generic_6.png"
+    },
+    "Jody Palmer": {
+        "team_name": "New York Mets",
+        "primary": "New York Mets",
+        "secondary": "New York Mets",
+        "img_filename": "generic_10.png"
+    },
+    "Jerry Mahoney": {
+        "team_name": "New York Mets",
+        "primary": "New York Mets",
+        "secondary": "New York Mets",
+        "img_filename": "generic_1.png"
+    },
+    "Sammy Sosa": {
+        "team_name": "Houston Astros",
+        "primary": "Houston Astros",
+        "secondary": "Houston Astros",
+        "img_filename": "Sammy.png"
+    },
+    "Randy Johnson": {
+        "team_name": "Houston Astros",
+        "primary": "Houston Astros",
+        "secondary": "Houston Astros",
+        "img_filename": "Randy.png"
+    },
+    "Alexis Weis": {
+        "team_name": "Houston Astros",
+        "primary": "Houston Astros",
+        "secondary": "Houston Astros",
+        "img_filename": "generic_10.png"
+    },
+    "Rachel La Buena": {
+        "team_name": "Houston Astros",
+        "primary": "Houston Astros",
+        "secondary": "Houston Astros",
+        "img_filename": "generic_10.png"
+    },
+    "Dmitri Petrovich": {
+        "team_name": "Houston Astros",
+        "primary": "Houston Astros",
+        "secondary": "Houston Astros",
+        "img_filename": "Dmitri.png"
+    },
+    "Nancy Chin": {
+        "team_name": "Houston Astros",
+        "primary": "Houston Astros",
+        "secondary": "Houston Astros",
+        "img_filename": "generic_8.png"
+    },
+    "Derek McCattery": {
+        "team_name": "Houston Astros",
+        "primary": "Houston Astros",
+        "secondary": "Houston Astros",
+        "img_filename": "generic_4.png"
+    },
+    "Dante Robinson": {
+        "team_name": "Houston Astros",
+        "primary": "Houston Astros",
+        "secondary": "Houston Astros",
+        "img_filename": "Dante.png"
+    },
+    "Reese Worthington": {
+        "team_name": "Houston Astros",
+        "primary": "Houston Astros",
+        "secondary": "Houston Astros",
+        "img_filename": "Reese.png"
+    },
+    "Lindsy Felgate": {
+        "team_name": "Texas Rangers",
+        "primary": "Texas Rangers",
+        "secondary": "Texas Rangers",
+        "img_filename": "generic_10.png"
+    },
+    "Zoe Mallory": {
+        "team_name": "Texas Rangers",
+        "primary": "Texas Rangers",
+        "secondary": "Texas Rangers",
+        "img_filename": "generic_12.png"
+    },
+    "Mo Vaughn": {
+        "team_name": "Texas Rangers",
+        "primary": "Texas Rangers",
+        "secondary": "Texas Rangers",
+        "img_filename": "Mo.png"
+    },
+    "Christina Beattie": {
+        "team_name": "Texas Rangers",
+        "primary": "Texas Rangers",
+        "secondary": "Texas Rangers",
+        "img_filename": "generic_7.png"
+    },
+    "Lena Ng": {
+        "team_name": "Texas Rangers",
+        "primary": "Texas Rangers",
+        "secondary": "Texas Rangers",
+        "img_filename": "generic_8.png"
+    },
+    "Whitney Singh": {
+        "team_name": "Texas Rangers",
+        "primary": "Texas Rangers",
+        "secondary": "Texas Rangers",
+        "img_filename": "generic_12.png"
+    },
+    "Fabienne Callahan": {
+        "team_name": "Texas Rangers",
+        "primary": "Texas Rangers",
+        "secondary": "Texas Rangers",
+        "img_filename": "generic_9.png"
+    },
+    "Gail Weinmann": {
+        "team_name": "Texas Rangers",
+        "primary": "Texas Rangers",
+        "secondary": "Texas Rangers",
+        "img_filename": "generic_11.png"
+    },
+    "Rosanna Phelps": {
+        "team_name": "Texas Rangers",
+        "primary": "Texas Rangers",
+        "secondary": "Texas Rangers",
+        "img_filename": "generic_7.png"
+    },
+    "Pablo Sanchez": {
+        "team_name": "Baltimore Orioles",
+        "primary": "Baltimore Orioles",
+        "secondary": "Baltimore Orioles",
+        "img_filename": "Pablo.png"
+    },
+    "Cheryl Reynolds": {
+        "team_name": "Baltimore Orioles",
+        "primary": "Baltimore Orioles",
+        "secondary": "Baltimore Orioles",
+        "img_filename": "generic_12.png"
+    },
+    "Jane Davis": {
+        "team_name": "Baltimore Orioles",
+        "primary": "Baltimore Orioles",
+        "secondary": "Baltimore Orioles",
+        "img_filename": "generic_11.png"
+    },
+    "Frank Thomas": {
+        "team_name": "Baltimore Orioles",
+        "primary": "Baltimore Orioles",
+        "secondary": "Baltimore Orioles",
+        "img_filename": "Frank.png"
+    },
+    "Bobby Bulgrien": {
+        "team_name": "Baltimore Orioles",
+        "primary": "Baltimore Orioles",
+        "secondary": "Baltimore Orioles",
+        "img_filename": "generic_6.png"
+    },
+    "Ruth Proutt": {
+        "team_name": "Baltimore Orioles",
+        "primary": "Baltimore Orioles",
+        "secondary": "Baltimore Orioles",
+        "img_filename": "generic_8.png"
+    },
+    "Cindy Chang": {
+        "team_name": "Baltimore Orioles",
+        "primary": "Baltimore Orioles",
+        "secondary": "Baltimore Orioles",
+        "img_filename": "generic_10.png"
+    },
+    "Gary Allen": {
+        "team_name": "Baltimore Orioles",
+        "primary": "Baltimore Orioles",
+        "secondary": "Baltimore Orioles",
+        "img_filename": "generic_6.png"
+    },
+    "Serena Damonte": {
+        "team_name": "Baltimore Orioles",
+        "primary": "Baltimore Orioles",
+        "secondary": "Baltimore Orioles",
+        "img_filename": "generic_8.png"
+    },
+    "Pete Wheeler": {
+        "team_name": "Pittsburgh Pirates",
+        "primary": "Pittsburgh Pirates",
+        "secondary": "Pittsburgh Pirates",
+        "img_filename": "Pete.png"
+    },
+    "Raul Mondesi": {
+        "team_name": "Pittsburgh Pirates",
+        "primary": "Pittsburgh Pirates",
+        "secondary": "Pittsburgh Pirates",
+        "img_filename": "Raul.png"
+    },
+    "Claudia Villarta": {
+        "team_name": "Pittsburgh Pirates",
+        "primary": "Pittsburgh Pirates",
+        "secondary": "Pittsburgh Pirates",
+        "img_filename": "generic_8.png"
+    },
+    "Tony Delvecchio": {
+        "team_name": "Pittsburgh Pirates",
+        "primary": "Pittsburgh Pirates",
+        "secondary": "Pittsburgh Pirates",
+        "img_filename": "Tony.png"
+    },
+    "Nicky Winston": {
+        "team_name": "Pittsburgh Pirates",
+        "primary": "Pittsburgh Pirates",
+        "secondary": "Pittsburgh Pirates",
+        "img_filename": "generic_2.png"
+    },
+    "Joella Minotti": {
+        "team_name": "Pittsburgh Pirates",
+        "primary": "Pittsburgh Pirates",
+        "secondary": "Pittsburgh Pirates",
+        "img_filename": "generic_12.png"
+    },
+    "Dominique Lowe": {
+        "team_name": "Pittsburgh Pirates",
+        "primary": "Pittsburgh Pirates",
+        "secondary": "Pittsburgh Pirates",
+        "img_filename": "generic_1.png"
+    },
+    "Bret Olson": {
+        "team_name": "Pittsburgh Pirates",
+        "primary": "Pittsburgh Pirates",
+        "secondary": "Pittsburgh Pirates",
+        "img_filename": "generic_4.png"
+    },
+    "Tiffany Bosworth": {
+        "team_name": "Pittsburgh Pirates",
+        "primary": "Pittsburgh Pirates",
+        "secondary": "Pittsburgh Pirates",
+        "img_filename": "generic_8.png"
+    },
+    "Achmed Khan": {
+        "team_name": "Boston Red Sox",
+        "primary": "Boston Red Sox",
+        "secondary": "Boston Red Sox",
+        "img_filename": "Achmed.png"
+    },
+    "Mandy Coolidge": {
+        "team_name": "Boston Red Sox",
+        "primary": "Boston Red Sox",
+        "secondary": "Boston Red Sox",
+        "img_filename": "generic_7.png"
+    },
+    "Mr. Clanky": {
+        "team_name": "Boston Red Sox",
+        "primary": "Boston Red Sox",
+        "secondary": "Boston Red Sox",
+        "img_filename": "MrClanky.png"
+    },
+    "Sidney Webber": {
+        "team_name": "Boston Red Sox",
+        "primary": "Boston Red Sox",
+        "secondary": "Boston Red Sox",
+        "img_filename": "Sidney.png"
+    },
+    "Ernie Steele": {
+        "team_name": "Boston Red Sox",
+        "primary": "Boston Red Sox",
+        "secondary": "Boston Red Sox",
+        "img_filename": "Ernie.png"
+    },
+    "Ashley Webber": {
+        "team_name": "Boston Red Sox",
+        "primary": "Boston Red Sox",
+        "secondary": "Boston Red Sox",
+        "img_filename": "Ashley.png"
+    },
+    "Melissa Waters": {
+        "team_name": "Boston Red Sox",
+        "primary": "Boston Red Sox",
+        "secondary": "Boston Red Sox",
+        "img_filename": "generic_9.png"
+    },
+    "Amir Khan": {
+        "team_name": "Boston Red Sox",
+        "primary": "Boston Red Sox",
+        "secondary": "Boston Red Sox",
+        "img_filename": "Amir.png"
+    },
+    "Olga Tollefson": {
+        "team_name": "Boston Red Sox",
+        "primary": "Boston Red Sox",
+        "secondary": "Boston Red Sox",
+        "img_filename": "generic_9.png"
+    },
+    "Ken Griffey Jr.": {
+        "team_name": "Milwaukee Brewers",
+        "primary": "Milwaukee Brewers",
+        "secondary": "Milwaukee Brewers",
+        "img_filename": "Ken.png"
+    },
+    "Barry Larkin": {
+        "team_name": "Milwaukee Brewers",
+        "primary": "Milwaukee Brewers",
+        "secondary": "Milwaukee Brewers",
+        "img_filename": "Barry_Larkin.png"
+    },
+    "Vladimir Guerrero": {
+        "team_name": "Milwaukee Brewers",
+        "primary": "Milwaukee Brewers",
+        "secondary": "Milwaukee Brewers",
+        "img_filename": "Vladimir.png"
+    },
+    "Jeromy Burnitz": {
+        "team_name": "Milwaukee Brewers",
+        "primary": "Milwaukee Brewers",
+        "secondary": "Milwaukee Brewers",
+        "img_filename": "Jeromy.png"
+    },
+    "Ronny Dobbs": {
+        "team_name": "Milwaukee Brewers",
+        "primary": "Milwaukee Brewers",
+        "secondary": "Milwaukee Brewers",
+        "img_filename": "Ronny.png"
+    },
+    "Jason Giambi": {
+        "team_name": "Milwaukee Brewers",
+        "primary": "Milwaukee Brewers",
+        "secondary": "Milwaukee Brewers",
+        "img_filename": "Jason_Giambi.png"
+    },
+    "Kenny Kawaguchi": {
+        "team_name": "Milwaukee Brewers",
+        "primary": "Milwaukee Brewers",
+        "secondary": "Milwaukee Brewers",
+        "img_filename": "Kenny.png"
+    },
+    "Rose Fluegel": {
+        "team_name": "Milwaukee Brewers",
+        "primary": "Milwaukee Brewers",
+        "secondary": "Milwaukee Brewers",
+        "img_filename": "generic_12.png"
+    },
+    "Stevie Lindt": {
+        "team_name": "Milwaukee Brewers",
+        "primary": "Milwaukee Brewers",
+        "secondary": "Milwaukee Brewers",
+        "img_filename": "generic_1.png"
+    },
+    "Kenny Lofton": {
+        "team_name": "Little Fishes",
+        "primary": "Custom Team Blue",
+        "secondary": "Custom Team Green",
+        "img_filename": "Kenny_Lofton.png"
+    },
+    "Alex Rodriguez": {
+        "team_name": "Little Fishes",
+        "primary": "Custom Team Blue",
+        "secondary": "Custom Team Green",
+        "img_filename": "Alex_Rodriguez.png"
+    },
+    "Mark McGwire": {
+        "team_name": "Little Fishes",
+        "primary": "Custom Team Blue",
+        "secondary": "Custom Team Green",
+        "img_filename": "Mark.png"
+    },
+    "Timmy Unger": {
+        "team_name": "Little Fishes",
+        "primary": "Custom Team Blue",
+        "secondary": "Custom Team Green",
+        "img_filename": "generic_3.png"
+    },
+    "Carlos Beltran": {
+        "team_name": "Little Fishes",
+        "primary": "Custom Team Blue",
+        "secondary": "Custom Team Green",
+        "img_filename": "Carlos.png"
+    },
+    "Curt Schilling": {
+        "team_name": "Little Fishes",
+        "primary": "Custom Team Blue",
+        "secondary": "Custom Team Green",
+        "img_filename": "Curt.png"
+    },
+    "Ray Tran": {
+        "team_name": "Little Fishes",
+        "primary": "Custom Team Blue",
+        "secondary": "Custom Team Green",
+        "img_filename": "generic_2.png"
+    },
+    "Paco Kaufman": {
+        "team_name": "Little Fishes",
+        "primary": "Custom Team Blue",
+        "secondary": "Custom Team Green",
+        "img_filename": "generic_4.png"
+    },
+    "Felix Grant": {
+        "team_name": "Little Fishes",
+        "primary": "Custom Team Blue",
+        "secondary": "Custom Team Green",
+        "img_filename": "generic_2.png"
+    },
+    "Chico Pappas": {
+        "team_name": "Florida Marlins",
+        "primary": "Florida Marlins",
+        "secondary": "Florida Marlins",
+        "img_filename": "generic_5.png"
+    },
+    "Kathy Wolf": {
+        "team_name": "Florida Marlins",
+        "primary": "Florida Marlins",
+        "secondary": "Florida Marlins",
+        "img_filename": "generic_7.png"
+    },
+    "Sally Dobbs": {
+        "team_name": "Florida Marlins",
+        "primary": "Florida Marlins",
+        "secondary": "Florida Marlins",
+        "img_filename": "Sally.png"
+    },
+    "Marty Cordova": {
+        "team_name": "Florida Marlins",
+        "primary": "Florida Marlins",
+        "secondary": "Florida Marlins",
+        "img_filename": "Marty.png"
+    },
+    "Molly May": {
+        "team_name": "Florida Marlins",
+        "primary": "Florida Marlins",
+        "secondary": "Florida Marlins",
+        "img_filename": "generic_7.png"
+    },
+    "Uma Morris": {
+        "team_name": "Florida Marlins",
+        "primary": "Florida Marlins",
+        "secondary": "Florida Marlins",
+        "img_filename": "generic_7.png"
+    },
+    "Tina Herrara": {
+        "team_name": "Florida Marlins",
+        "primary": "Florida Marlins",
+        "secondary": "Florida Marlins",
+        "img_filename": "generic_9.png"
+    },
+    "Terry Vega": {
+        "team_name": "Florida Marlins",
+        "primary": "Florida Marlins",
+        "secondary": "Florida Marlins",
+        "img_filename": "generic_2.png"
+    },
+    "Diana Hayes": {
+        "team_name": "Florida Marlins",
+        "primary": "Florida Marlins",
+        "secondary": "Florida Marlins",
+        "img_filename": "generic_8.png"
+    },
+    "Marsellus Marx": {
+        "team_name": "Tampa Bay Devil Rays",
+        "primary": "Tampa Bay Devil Rays",
+        "secondary": "Tampa Bay Devil Rays",
+        "img_filename": "generic_1.png"
+    },
+    "Kiesha Phillips": {
+        "team_name": "Tampa Bay Devil Rays",
+        "primary": "Tampa Bay Devil Rays",
+        "secondary": "Tampa Bay Devil Rays",
+        "img_filename": "Kiesha.png"
+    },
+    "Fay Dawson": {
+        "team_name": "Tampa Bay Devil Rays",
+        "primary": "Tampa Bay Devil Rays",
+        "secondary": "Tampa Bay Devil Rays",
+        "img_filename": "generic_11.png"
+    },
+    "Trent Sizemore": {
+        "team_name": "Tampa Bay Devil Rays",
+        "primary": "Tampa Bay Devil Rays",
+        "secondary": "Tampa Bay Devil Rays",
+        "img_filename": "generic_6.png"
+    },
+    "Isabelle Marelli": {
+        "team_name": "Tampa Bay Devil Rays",
+        "primary": "Tampa Bay Devil Rays",
+        "secondary": "Tampa Bay Devil Rays",
+        "img_filename": "generic_10.png"
+    },
+    "Perry Marx": {
+        "team_name": "Tampa Bay Devil Rays",
+        "primary": "Tampa Bay Devil Rays",
+        "secondary": "Tampa Bay Devil Rays",
+        "img_filename": "generic_2.png"
+    },
+    "Vic Soufle": {
+        "team_name": "Tampa Bay Devil Rays",
+        "primary": "Tampa Bay Devil Rays",
+        "secondary": "Tampa Bay Devil Rays",
+        "img_filename": "generic_5.png"
+    },
+    "Ricky Johnson": {
+        "team_name": "Tampa Bay Devil Rays",
+        "primary": "Tampa Bay Devil Rays",
+        "secondary": "Tampa Bay Devil Rays",
+        "img_filename": "Ricky.png"
+    },
+    "Todd Xavier": {
+        "team_name": "Tampa Bay Devil Rays",
+        "primary": "Tampa Bay Devil Rays",
+        "secondary": "Tampa Bay Devil Rays",
+        "img_filename": "generic_4.png"
+    },
+    "Derek Jeter": {
+        "team_name": "New York Yankees",
+        "primary": "New York Yankees",
+        "secondary": "New York Yankees",
+        "img_filename": "Derek.png"
+    },
+    "Emily Lewbel": {
+        "team_name": "New York Yankees",
+        "primary": "New York Yankees",
+        "secondary": "New York Yankees",
+        "img_filename": "generic_10.png"
+    },
+    "Sonja Hagen": {
+        "team_name": "New York Yankees",
+        "primary": "New York Yankees",
+        "secondary": "New York Yankees",
+        "img_filename": "generic_10.png"
+    },
+    "Luanne Lui": {
+        "team_name": "New York Yankees",
+        "primary": "New York Yankees",
+        "secondary": "New York Yankees",
+        "img_filename": "Luanne.png"
+    },
+    "Jillian Paine": {
+        "team_name": "New York Yankees",
+        "primary": "New York Yankees",
+        "secondary": "New York Yankees",
+        "img_filename": "generic_10.png"
+    },
+    "Ramona Bennett": {
+        "team_name": "New York Yankees",
+        "primary": "New York Yankees",
+        "secondary": "New York Yankees",
+        "img_filename": "generic_12.png"
+    },
+    "Marianna Rauf": {
+        "team_name": "New York Yankees",
+        "primary": "New York Yankees",
+        "secondary": "New York Yankees",
+        "img_filename": "generic_11.png"
+    },
+    "Ryan VanderHoek": {
+        "team_name": "New York Yankees",
+        "primary": "New York Yankees",
+        "secondary": "New York Yankees",
+        "img_filename": "generic_4.png"
+    },
+    "Tatiana Jackson": {
+        "team_name": "New York Yankees",
+        "primary": "New York Yankees",
+        "secondary": "New York Yankees",
+        "img_filename": "generic_10.png"
+    },
+    "Jessica Wassersas": {
+        "team_name": "Detroit Tigers",
+        "primary": "Detroit Tigers",
+        "secondary": "Detroit Tigers",
+        "img_filename": "generic_9.png"
+    },
+    "Fred Benson": {
+        "team_name": "Detroit Tigers",
+        "primary": "Detroit Tigers",
+        "secondary": "Detroit Tigers",
+        "img_filename": "generic_5.png"
+    },
+    "Courtney Valentino": {
+        "team_name": "Detroit Tigers",
+        "primary": "Detroit Tigers",
+        "secondary": "Detroit Tigers",
+        "img_filename": "generic_10.png"
+    },
+    "Ezra Travolta": {
+        "team_name": "Detroit Tigers",
+        "primary": "Detroit Tigers",
+        "secondary": "Detroit Tigers",
+        "img_filename": "generic_8.png"
+    },
+    "Libby Futterman": {
+        "team_name": "Detroit Tigers",
+        "primary": "Detroit Tigers",
+        "secondary": "Detroit Tigers",
+        "img_filename": "generic_7.png"
+    },
+    "Donald Vogel": {
+        "team_name": "Detroit Tigers",
+        "primary": "Detroit Tigers",
+        "secondary": "Detroit Tigers",
+        "img_filename": "generic_5.png"
+    },
+    "George Coleman": {
+        "team_name": "Detroit Tigers",
+        "primary": "Detroit Tigers",
+        "secondary": "Detroit Tigers",
+        "img_filename": "generic_1.png"
+    },
+    "Butch Sherrod": {
+        "team_name": "Detroit Tigers",
+        "primary": "Detroit Tigers",
+        "secondary": "Detroit Tigers",
+        "img_filename": "generic_2.png"
+    },
+    "Heather Quinn": {
+        "team_name": "Detroit Tigers",
+        "primary": "Detroit Tigers",
+        "secondary": "Detroit Tigers",
+        "img_filename": "generic_8.png"
+    },
+    "Larry Walker": {
+        "team_name": "Seattle Mariners",
+        "primary": "Seattle Mariners",
+        "secondary": "Seattle Mariners",
+        "img_filename": "Larry.png"
+    },
+    "Amanda Hellerman": {
+        "team_name": "Seattle Mariners",
+        "primary": "Seattle Mariners",
+        "secondary": "Seattle Mariners",
+        "img_filename": "generic_8.png"
+    },
+    "Alicia Blakely": {
+        "team_name": "Seattle Mariners",
+        "primary": "Seattle Mariners",
+        "secondary": "Seattle Mariners",
+        "img_filename": "generic_7.png"
+    },
+    "Kay O'Toole": {
+        "team_name": "Seattle Mariners",
+        "primary": "Seattle Mariners",
+        "secondary": "Seattle Mariners",
+        "img_filename": "generic_12.png"
+    },
+    "Arlene Perez": {
+        "team_name": "Seattle Mariners",
+        "primary": "Seattle Mariners",
+        "secondary": "Seattle Mariners",
+        "img_filename": "generic_8.png"
+    },
+    "Jordan Thorner": {
+        "team_name": "Seattle Mariners",
+        "primary": "Seattle Mariners",
+        "secondary": "Seattle Mariners",
+        "img_filename": "generic_4.png"
+    },
+    "Wing Kwan": {
+        "team_name": "Seattle Mariners",
+        "primary": "Seattle Mariners",
+        "secondary": "Seattle Mariners",
+        "img_filename": "generic_2.png"
+    },
+    "Stephanie Morgan": {
+        "team_name": "Seattle Mariners",
+        "primary": "Seattle Mariners",
+        "secondary": "Seattle Mariners",
+        "img_filename": "Stephanie.png"
+    },
+    "PJ Shareef": {
+        "team_name": "Seattle Mariners",
+        "primary": "Seattle Mariners",
+        "secondary": "Seattle Mariners",
+        "img_filename": "generic_5.png"
+    },
+    "Dawn Cozart": {
+        "team_name": "Los Angeles Dodgers",
+        "primary": "Los Angeles Dodgers",
+        "secondary": "Los Angeles Dodgers",
+        "img_filename": "generic_9.png"
+    },
+    "Brenda Markart": {
+        "team_name": "Los Angeles Dodgers",
+        "primary": "Los Angeles Dodgers",
+        "secondary": "Los Angeles Dodgers",
+        "img_filename": "generic_11.png"
+    },
+    "Pamela Kirkos": {
+        "team_name": "Los Angeles Dodgers",
+        "primary": "Los Angeles Dodgers",
+        "secondary": "Los Angeles Dodgers",
+        "img_filename": "generic_11.png"
+    },
+    "Lisa Crocket": {
+        "team_name": "Los Angeles Dodgers",
+        "primary": "Los Angeles Dodgers",
+        "secondary": "Los Angeles Dodgers",
+        "img_filename": "Lisa.png"
+    },
+    "Ivan Rodriguez": {
+        "team_name": "Los Angeles Dodgers",
+        "primary": "Los Angeles Dodgers",
+        "secondary": "Los Angeles Dodgers",
+        "img_filename": "Ivan.png"
+    },
+    "Billy Jean Blackwood": {
+        "team_name": "Los Angeles Dodgers",
+        "primary": "Los Angeles Dodgers",
+        "secondary": "Los Angeles Dodgers",
+        "img_filename": "Billy Jean.png"
+    },
+    "Kimmy Eckman": {
+        "team_name": "Los Angeles Dodgers",
+        "primary": "Los Angeles Dodgers",
+        "secondary": "Los Angeles Dodgers",
+        "img_filename": "Kimmy.png"
+    },
+    "Thor Herring": {
+        "team_name": "Los Angeles Dodgers",
+        "primary": "Los Angeles Dodgers",
+        "secondary": "Los Angeles Dodgers",
+        "img_filename": "generic_5.png"
+    },
+    "Johnny Omar": {
+        "team_name": "Los Angeles Dodgers",
+        "primary": "Los Angeles Dodgers",
+        "secondary": "Los Angeles Dodgers",
+        "img_filename": "generic_3.png"
+    },
+    "Barry Bonds": {
+        "team_name": "San Diego Padres",
+        "primary": "San Diego Padres",
+        "secondary": "San Diego Padres",
+        "img_filename": "Barry_Bonds.png"
+    },
+    "Cal Ripken Jr.": {
+        "team_name": "San Diego Padres",
+        "primary": "San Diego Padres",
+        "secondary": "San Diego Padres",
+        "img_filename": "Cal.png"
+    },
+    "Stuart Sullivan": {
+        "team_name": "San Diego Padres",
+        "primary": "San Diego Padres",
+        "secondary": "San Diego Padres",
+        "img_filename": "generic_2.png"
+    },
+    "Maya Woodruff": {
+        "team_name": "San Diego Padres",
+        "primary": "San Diego Padres",
+        "secondary": "San Diego Padres",
+        "img_filename": "generic_10.png"
+    },
+    "Holly Franklin": {
+        "team_name": "San Diego Padres",
+        "primary": "San Diego Padres",
+        "secondary": "San Diego Padres",
+        "img_filename": "generic_9.png"
+    },
+    "Franky Holly": {
+        "team_name": "San Diego Padres",
+        "primary": "San Diego Padres",
+        "secondary": "San Diego Padres",
+        "img_filename": "generic_4.png"
+    },
+    "Sheila Basanti": {
+        "team_name": "San Diego Padres",
+        "primary": "San Diego Padres",
+        "secondary": "San Diego Padres",
+        "img_filename": "generic_9.png"
+    },
+    "Mickey O'Connor": {
+        "team_name": "San Diego Padres",
+        "primary": "San Diego Padres",
+        "secondary": "San Diego Padres",
+        "img_filename": "generic_5.png"
+    },
+    "Chucky Flinder": {
+        "team_name": "San Diego Padres",
+        "primary": "San Diego Padres",
+        "secondary": "San Diego Padres",
+        "img_filename": "generic_3.png"
+    },
+    "Marilyn McDonnell": {
+        "team_name": "Humongous Melonheads",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_8.png"
+    },
+    "Zenon Estrada": {
+        "team_name": "Humongous Melonheads",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_6.png"
+    },
+    "Francesca Whitaker": {
+        "team_name": "Humongous Melonheads",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_10.png"
+    },
+    "Jeff Bagwell": {
+        "team_name": "Humongous Melonheads",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "Jeff.png"
+    },
+    "Joan Mae": {
+        "team_name": "Humongous Melonheads",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_9.png"
+    },
+    "Fernando Diaz": {
+        "team_name": "Humongous Melonheads",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_3.png"
+    },
+    "Jocinda Smith": {
+        "team_name": "Humongous Melonheads",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "Jocinda.png"
+    },
+    "Betty Houstan": {
+        "team_name": "Humongous Melonheads",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_9.png"
+    },
+    "Erin Harris": {
+        "team_name": "Humongous Melonheads",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_12.png"
+    },
+    "Davy Marian": {
+        "team_name": "Green Wombats",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_4.png"
+    },
+    "Anna Goudreau": {
+        "team_name": "Green Wombats",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_9.png"
+    },
+    "Sophie Meyer": {
+        "team_name": "Green Wombats",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_9.png"
+    },
+    "Yvonne Carter": {
+        "team_name": "Green Wombats",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_12.png"
+    },
+    "Jorge Garcia": {
+        "team_name": "Green Wombats",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "Jorge.png"
+    },
+    "Karen Donato": {
+        "team_name": "Green Wombats",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_9.png"
+    },
+    "Liz Kinghorn": {
+        "team_name": "Green Wombats",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_10.png"
+    },
+    "Adam Van Doren": {
+        "team_name": "Green Wombats",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_6.png"
+    },
+    "Murray Goldman": {
+        "team_name": "Green Wombats",
+        "primary": "Custom Team Green",
+        "secondary": "Custom Team White",
+        "img_filename": "generic_6.png"
+    },
+    "Maria Luna": {
+        "team_name": "Blue Monsters",
+        "primary": "Custom Team Pink",
+        "secondary": "Custom Team Blue",
+        "img_filename": "Maria.png"
+    },
+    "Francis Blewer": {
+        "team_name": "Blue Monsters",
+        "primary": "Custom Team Pink",
+        "secondary": "Custom Team Blue",
+        "img_filename": "generic_10.png"
+    },
+    "Chipper Jones": {
+        "team_name": "Blue Monsters",
+        "primary": "Custom Team Pink",
+        "secondary": "Custom Team Blue",
+        "img_filename": "Chipper.png"
+    },
+    "Wally Evans": {
+        "team_name": "Blue Monsters",
+        "primary": "Custom Team Pink",
+        "secondary": "Custom Team Blue",
+        "img_filename": "generic_1.png"
+    },
+    "Lance Lambert": {
+        "team_name": "Blue Monsters",
+        "primary": "Custom Team Pink",
+        "secondary": "Custom Team Blue",
+        "img_filename": "generic_2.png"
+    },
+    "Randi Uno": {
+        "team_name": "Blue Monsters",
+        "primary": "Custom Team Pink",
+        "secondary": "Custom Team Blue",
+        "img_filename": "generic_7.png"
+    },
+    "Vincent Sweet": {
+        "team_name": "Blue Monsters",
+        "primary": "Custom Team Pink",
+        "secondary": "Custom Team Blue",
+        "img_filename": "generic_5.png"
+    },
+    "Olive Hussein": {
+        "team_name": "Blue Monsters",
+        "primary": "Custom Team Pink",
+        "secondary": "Custom Team Blue",
+        "img_filename": "generic_10.png"
+    },
+    "Nate Kowalski": {
+        "team_name": "Blue Monsters",
+        "primary": "Custom Team Pink",
+        "secondary": "Custom Team Blue",
+        "img_filename": "generic_1.png"
+    },
+    "Veronica Lee": {
+        "team_name": "Montreal Expos",
+        "primary": "Montreal Expos",
+        "secondary": "Montreal Expos",
+        "img_filename": "generic_11.png"
+    },
+    "Tonya Lesco": {
+        "team_name": "Montreal Expos",
+        "primary": "Montreal Expos",
+        "secondary": "Montreal Expos",
+        "img_filename": "generic_10.png"
+    },
+    "Earl Abbot": {
+        "team_name": "Montreal Expos",
+        "primary": "Montreal Expos",
+        "secondary": "Montreal Expos",
+        "img_filename": "generic_6.png"
+    },
+    "Mikey Thomas": {
+        "team_name": "Montreal Expos",
+        "primary": "Montreal Expos",
+        "secondary": "Montreal Expos",
+        "img_filename": "Mikey.png"
+    },
+    "Gwen Sears": {
+        "team_name": "Montreal Expos",
+        "primary": "Montreal Expos",
+        "secondary": "Montreal Expos",
+        "img_filename": "generic_12.png"
+    },
+    "Nan Porter": {
+        "team_name": "Montreal Expos",
+        "primary": "Montreal Expos",
+        "secondary": "Montreal Expos",
+        "img_filename": "generic_10.png"
+    },
+    "Petra Chekov": {
+        "team_name": "Montreal Expos",
+        "primary": "Montreal Expos",
+        "secondary": "Montreal Expos",
+        "img_filename": "generic_11.png"
+    },
+    "Rafael Hendrix": {
+        "team_name": "Montreal Expos",
+        "primary": "Montreal Expos",
+        "secondary": "Montreal Expos",
+        "img_filename": "generic_6.png"
+    },
+    "Jack Joseph": {
+        "team_name": "Montreal Expos",
+        "primary": "Montreal Expos",
+        "secondary": "Montreal Expos",
+        "img_filename": "generic_6.png"
+    },
+    "Sarah Maxwell": {
+        "team_name": "St. Louis Cardinals",
+        "primary": "St. Louis Cardinals",
+        "secondary": "St. Louis Cardinals",
+        "img_filename": "generic_7.png"
+    },
+    "Jose Canseco": {
+        "team_name": "St. Louis Cardinals",
+        "primary": "St. Louis Cardinals",
+        "secondary": "St. Louis Cardinals",
+        "img_filename": "Jose.png"
+    },
+    "Angela Delvecchio": {
+        "team_name": "St. Louis Cardinals",
+        "primary": "St. Louis Cardinals",
+        "secondary": "St. Louis Cardinals",
+        "img_filename": "Angela.png"
+    },
+    "Susan Gore": {
+        "team_name": "St. Louis Cardinals",
+        "primary": "St. Louis Cardinals",
+        "secondary": "St. Louis Cardinals",
+        "img_filename": "generic_8.png"
+    },
+    "Alex Gonzalez": {
+        "team_name": "St. Louis Cardinals",
+        "primary": "St. Louis Cardinals",
+        "secondary": "St. Louis Cardinals",
+        "img_filename": "Alex_Gonzalez.png"
+    },
+    "Chad Koppel": {
+        "team_name": "St. Louis Cardinals",
+        "primary": "St. Louis Cardinals",
+        "secondary": "St. Louis Cardinals",
+        "img_filename": "generic_3.png"
+    },
+    "Lorelei Ikaye": {
+        "team_name": "St. Louis Cardinals",
+        "primary": "St. Louis Cardinals",
+        "secondary": "St. Louis Cardinals",
+        "img_filename": "generic_11.png"
+    },
+    "Andres Ibsen": {
+        "team_name": "St. Louis Cardinals",
+        "primary": "St. Louis Cardinals",
+        "secondary": "St. Louis Cardinals",
+        "img_filename": "generic_1.png"
+    },
+    "Judy Abwunza": {
+        "team_name": "St. Louis Cardinals",
+        "primary": "St. Louis Cardinals",
+        "secondary": "St. Louis Cardinals",
+        "img_filename": "generic_7.png"
+    },
+    "Zena Fromme": {
+        "team_name": "Humongous Hornets",
+        "primary": "Custom Team Yellow",
+        "secondary": "Custom Team Black",
+        "img_filename": "generic_11.png"
+    },
+    "Maynard McElroy": {
+        "team_name": "Humongous Hornets",
+        "primary": "Custom Team Yellow",
+        "secondary": "Custom Team Black",
+        "img_filename": "generic_5.png"
+    },
+    "Star Moonbeam": {
+        "team_name": "Humongous Hornets",
+        "primary": "Custom Team Yellow",
+        "secondary": "Custom Team Black",
+        "img_filename": "generic_12.png"
+    },
+    "Samuel Middleton": {
+        "team_name": "Humongous Hornets",
+        "primary": "Custom Team Yellow",
+        "secondary": "Custom Team Black",
+        "img_filename": "generic_3.png"
+    },
+    "Mike Piazza": {
+        "team_name": "Humongous Hornets",
+        "primary": "Custom Team Yellow",
+        "secondary": "Custom Team Black",
+        "img_filename": "Mike.png"
+    },
+    "Omar Stephano": {
+        "team_name": "Humongous Hornets",
+        "primary": "Custom Team Yellow",
+        "secondary": "Custom Team Black",
+        "img_filename": "generic_3.png"
+    },
+    "Vicki Kawaguchi": {
+        "team_name": "Humongous Hornets",
+        "primary": "Custom Team Yellow",
+        "secondary": "Custom Team Black",
+        "img_filename": "Vicki.png"
+    },
+    "Mary Reilly": {
+        "team_name": "Humongous Hornets",
+        "primary": "Custom Team Yellow",
+        "secondary": "Custom Team Black",
+        "img_filename": "generic_12.png"
+    },
+    "Jose Meisenheimer": {
+        "team_name": "Humongous Hornets",
+        "primary": "Custom Team Yellow",
+        "secondary": "Custom Team Black",
+        "img_filename": "generic_4.png"
+    }
+}

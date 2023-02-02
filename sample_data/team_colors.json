@@ -1,0 +1,2642 @@
+{
+    "Base": {
+        "name": "Base",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 0,
+                    "green": 238,
+                    "blue": 214
+                },
+                "color2": {
+                    "red": 0,
+                    "green": 189,
+                    "blue": 171
+                },
+                "color3": {
+                    "red": 0,
+                    "green": 140,
+                    "blue": 128
+                },
+                "color4": {
+                    "red": 0,
+                    "green": 92,
+                    "blue": 85
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 255,
+                    "green": 0,
+                    "blue": 255
+                },
+                "color2": {
+                    "red": 212,
+                    "green": 0,
+                    "blue": 219
+                },
+                "color3": {
+                    "red": 173,
+                    "green": 0,
+                    "blue": 184
+                },
+                "color4": {
+                    "red": 144,
+                    "green": 0,
+                    "blue": 149
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 255,
+                    "green": 87,
+                    "blue": 87
+                },
+                "color2": {
+                    "red": 188,
+                    "green": 64,
+                    "blue": 64
+                },
+                "color3": {
+                    "red": 122,
+                    "green": 41,
+                    "blue": 41
+                }
+            }
+        }
+    },
+    "Anaheim Angels": {
+        "name": "Anaheim Angels",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 24,
+                    "green": 32,
+                    "blue": 88
+                },
+                "color2": {
+                    "red": 24,
+                    "green": 24,
+                    "blue": 72
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 24,
+                    "blue": 64
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 56
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 88,
+                    "green": 112,
+                    "blue": 176
+                },
+                "color2": {
+                    "red": 72,
+                    "green": 88,
+                    "blue": 144
+                },
+                "color3": {
+                    "red": 56,
+                    "green": 72,
+                    "blue": 104
+                },
+                "color4": {
+                    "red": 32,
+                    "green": 48,
+                    "blue": 72
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Arizona Diamondbacks": {
+        "name": "Arizona Diamondbacks",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 248,
+                    "green": 248,
+                    "blue": 232
+                },
+                "color2": {
+                    "red": 216,
+                    "green": 208,
+                    "blue": 200
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 160
+                },
+                "color4": {
+                    "red": 144,
+                    "green": 136,
+                    "blue": 128
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 64,
+                    "green": 32,
+                    "blue": 128
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 24,
+                    "blue": 112
+                },
+                "color3": {
+                    "red": 48,
+                    "green": 24,
+                    "blue": 104
+                },
+                "color4": {
+                    "red": 40,
+                    "green": 16,
+                    "blue": 88
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 208,
+                    "blue": 200
+                },
+                "color2": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 160
+                },
+                "color3": {
+                    "red": 144,
+                    "green": 136,
+                    "blue": 128
+                }
+            }
+        }
+    },
+    "Atlanta Braves": {
+        "name": "Atlanta Braves",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 40,
+                    "green": 72,
+                    "blue": 160
+                },
+                "color2": {
+                    "red": 32,
+                    "green": 56,
+                    "blue": 120
+                },
+                "color3": {
+                    "red": 24,
+                    "green": 48,
+                    "blue": 96
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 232,
+                    "green": 0,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 0,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 0,
+                    "blue": 48
+                },
+                "color4": {
+                    "red": 136,
+                    "green": 0,
+                    "blue": 40
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Baltimore Orioles": {
+        "name": "Baltimore Orioles",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 232,
+                    "green": 120,
+                    "blue": 48
+                },
+                "color2": {
+                    "red": 184,
+                    "green": 96,
+                    "blue": 40
+                },
+                "color3": {
+                    "red": 144,
+                    "green": 72,
+                    "blue": 24
+                },
+                "color4": {
+                    "red": 96,
+                    "green": 48,
+                    "blue": 16
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 160,
+                    "green": 160,
+                    "blue": 160
+                },
+                "color2": {
+                    "red": 136,
+                    "green": 136,
+                    "blue": 136
+                },
+                "color3": {
+                    "red": 104,
+                    "green": 104,
+                    "blue": 104
+                }
+            }
+        }
+    },
+    "Boston Red Sox": {
+        "name": "Boston Red Sox",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 216,
+                    "green": 40,
+                    "blue": 56
+                },
+                "color2": {
+                    "red": 176,
+                    "green": 32,
+                    "blue": 48
+                },
+                "color3": {
+                    "red": 144,
+                    "green": 24,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 112,
+                    "green": 16,
+                    "blue": 32
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Chicago Cubs": {
+        "name": "Chicago Cubs",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 24,
+                    "green": 104,
+                    "blue": 192
+                },
+                "color2": {
+                    "red": 16,
+                    "green": 80,
+                    "blue": 152
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 64,
+                    "blue": 112
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 216,
+                    "green": 40,
+                    "blue": 56
+                },
+                "color2": {
+                    "red": 176,
+                    "green": 32,
+                    "blue": 48
+                },
+                "color3": {
+                    "red": 144,
+                    "green": 24,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 112,
+                    "green": 16,
+                    "blue": 32
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Chicago White Sox": {
+        "name": "Chicago White Sox",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Cincinnatti Reds": {
+        "name": "Cincinnatti Reds",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 224,
+                    "green": 0,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 176,
+                    "green": 0,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 136,
+                    "green": 0,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 88,
+                    "green": 0,
+                    "blue": 24
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 224,
+                    "green": 0,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 176,
+                    "green": 0,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 136,
+                    "green": 0,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 88,
+                    "green": 0,
+                    "blue": 24
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Cleveland Indians": {
+        "name": "Cleveland Indians",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 224,
+                    "green": 0,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 176,
+                    "green": 0,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 136,
+                    "green": 0,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 88,
+                    "green": 0,
+                    "blue": 24
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Colorado Rockies": {
+        "name": "Colorado Rockies",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 56,
+                    "green": 24,
+                    "blue": 120
+                },
+                "color2": {
+                    "red": 40,
+                    "green": 24,
+                    "blue": 96
+                },
+                "color3": {
+                    "red": 32,
+                    "green": 16,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 24,
+                    "green": 8,
+                    "blue": 56
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Detroit Tigers": {
+        "name": "Detroit Tigers",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Florida Marlins": {
+        "name": "Florida Marlins",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 0,
+                    "green": 160,
+                    "blue": 176
+                },
+                "color2": {
+                    "red": 0,
+                    "green": 136,
+                    "blue": 144
+                },
+                "color3": {
+                    "red": 0,
+                    "green": 112,
+                    "blue": 120
+                },
+                "color4": {
+                    "red": 0,
+                    "green": 88,
+                    "blue": 96
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 0,
+                    "green": 160,
+                    "blue": 176
+                },
+                "color2": {
+                    "red": 0,
+                    "green": 136,
+                    "blue": 144
+                },
+                "color3": {
+                    "red": 0,
+                    "green": 112,
+                    "blue": 120
+                },
+                "color4": {
+                    "red": 0,
+                    "green": 88,
+                    "blue": 96
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Houston Astros": {
+        "name": "Houston Astros",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 168,
+                    "green": 40,
+                    "blue": 32
+                },
+                "color2": {
+                    "red": 136,
+                    "green": 32,
+                    "blue": 32
+                },
+                "color3": {
+                    "red": 112,
+                    "green": 24,
+                    "blue": 24
+                },
+                "color4": {
+                    "red": 80,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Kansas City Royals": {
+        "name": "Kansas City Royals",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 56,
+                    "green": 80,
+                    "blue": 176
+                },
+                "color2": {
+                    "red": 40,
+                    "green": 64,
+                    "blue": 144
+                },
+                "color3": {
+                    "red": 32,
+                    "green": 48,
+                    "blue": 112
+                },
+                "color4": {
+                    "red": 24,
+                    "green": 40,
+                    "blue": 88
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 56,
+                    "green": 80,
+                    "blue": 176
+                },
+                "color2": {
+                    "red": 40,
+                    "green": 64,
+                    "blue": 144
+                },
+                "color3": {
+                    "red": 32,
+                    "green": 48,
+                    "blue": 112
+                },
+                "color4": {
+                    "red": 24,
+                    "green": 40,
+                    "blue": 88
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Los Angeles Dodgers": {
+        "name": "Los Angeles Dodgers",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 24,
+                    "green": 104,
+                    "blue": 192
+                },
+                "color2": {
+                    "red": 16,
+                    "green": 80,
+                    "blue": 152
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 64,
+                    "blue": 112
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 24,
+                    "green": 104,
+                    "blue": 192
+                },
+                "color2": {
+                    "red": 16,
+                    "green": 80,
+                    "blue": 152
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 64,
+                    "blue": 112
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Milwaukee Brewers": {
+        "name": "Milwaukee Brewers",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Minnesota Twins": {
+        "name": "Minnesota Twins",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Montreal Expos": {
+        "name": "Montreal Expos",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 32,
+                    "green": 64,
+                    "blue": 136
+                },
+                "color2": {
+                    "red": 24,
+                    "green": 56,
+                    "blue": 120
+                },
+                "color3": {
+                    "red": 24,
+                    "green": 48,
+                    "blue": 96
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 40,
+                    "blue": 80
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 224,
+                    "green": 40,
+                    "blue": 56
+                },
+                "color2": {
+                    "red": 184,
+                    "green": 32,
+                    "blue": 48
+                },
+                "color3": {
+                    "red": 136,
+                    "green": 24,
+                    "blue": 32
+                },
+                "color4": {
+                    "red": 96,
+                    "green": 16,
+                    "blue": 24
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "New York Yankees": {
+        "name": "New York Yankees",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 160,
+                    "green": 160,
+                    "blue": 160
+                },
+                "color2": {
+                    "red": 136,
+                    "green": 136,
+                    "blue": 136
+                },
+                "color3": {
+                    "red": 104,
+                    "green": 104,
+                    "blue": 104
+                }
+            }
+        }
+    },
+    "New York Mets": {
+        "name": "New York Mets",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 40,
+                    "green": 72,
+                    "blue": 160
+                },
+                "color2": {
+                    "red": 32,
+                    "green": 56,
+                    "blue": 120
+                },
+                "color3": {
+                    "red": 24,
+                    "green": 48,
+                    "blue": 96
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 40,
+                    "green": 72,
+                    "blue": 160
+                },
+                "color2": {
+                    "red": 32,
+                    "green": 56,
+                    "blue": 120
+                },
+                "color3": {
+                    "red": 24,
+                    "green": 48,
+                    "blue": 96
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Oakland Athletics": {
+        "name": "Oakland Athletics",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 0,
+                    "green": 72,
+                    "blue": 64
+                },
+                "color2": {
+                    "red": 0,
+                    "green": 48,
+                    "blue": 48
+                },
+                "color3": {
+                    "red": 0,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 0,
+                    "green": 32,
+                    "blue": 32
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 240,
+                    "green": 184,
+                    "blue": 32
+                },
+                "color2": {
+                    "red": 200,
+                    "green": 152,
+                    "blue": 24
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 120,
+                    "blue": 16
+                },
+                "color4": {
+                    "red": 120,
+                    "green": 96,
+                    "blue": 16
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Philadelphia Phillies": {
+        "name": "Philadelphia Phillies",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 232,
+                    "green": 0,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 0,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 0,
+                    "blue": 48
+                },
+                "color4": {
+                    "red": 136,
+                    "green": 0,
+                    "blue": 40
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 32,
+                    "green": 64,
+                    "blue": 136
+                },
+                "color2": {
+                    "red": 24,
+                    "green": 56,
+                    "blue": 120
+                },
+                "color3": {
+                    "red": 24,
+                    "green": 48,
+                    "blue": 96
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 40,
+                    "blue": 80
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Pittsburgh Pirates": {
+        "name": "Pittsburgh Pirates",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "San Diego Padres": {
+        "name": "San Diego Padres",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 16,
+                    "green": 32,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 24,
+                    "blue": 64
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 16,
+                    "blue": 48
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 16,
+                    "blue": 40
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 16,
+                    "green": 32,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 24,
+                    "blue": 64
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 16,
+                    "blue": 48
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 16,
+                    "blue": 40
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "San Francisco Giants": {
+        "name": "San Francisco Giants",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 224,
+                    "green": 216,
+                    "blue": 200
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 184,
+                    "blue": 160
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 152,
+                    "blue": 120
+                }
+            }
+        }
+    },
+    "Seattle Mariners": {
+        "name": "Seattle Mariners",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 16,
+                    "green": 56,
+                    "blue": 112
+                },
+                "color2": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 32,
+                    "blue": 64
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 0,
+                    "green": 144,
+                    "blue": 144
+                },
+                "color2": {
+                    "red": 0,
+                    "green": 96,
+                    "blue": 96
+                },
+                "color3": {
+                    "red": 0,
+                    "green": 72,
+                    "blue": 72
+                },
+                "color4": {
+                    "red": 0,
+                    "green": 48,
+                    "blue": 40
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "St. Louis Cardinals": {
+        "name": "St. Louis Cardinals",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 232,
+                    "green": 0,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 0,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 0,
+                    "blue": 48
+                },
+                "color4": {
+                    "red": 136,
+                    "green": 0,
+                    "blue": 40
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 232,
+                    "green": 0,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 0,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 0,
+                    "blue": 48
+                },
+                "color4": {
+                    "red": 136,
+                    "green": 0,
+                    "blue": 40
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Tampa Bay Devil Rays": {
+        "name": "Tampa Bay Devil Rays",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 104,
+                    "green": 0,
+                    "blue": 104
+                },
+                "color2": {
+                    "red": 80,
+                    "green": 0,
+                    "blue": 80
+                },
+                "color3": {
+                    "red": 64,
+                    "green": 0,
+                    "blue": 64
+                },
+                "color4": {
+                    "red": 40,
+                    "green": 0,
+                    "blue": 40
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Texas Rangers": {
+        "name": "Texas Rangers",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 232,
+                    "green": 0,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 0,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 0,
+                    "blue": 48
+                },
+                "color4": {
+                    "red": 136,
+                    "green": 0,
+                    "blue": 40
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 232,
+                    "green": 0,
+                    "blue": 72
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 0,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 0,
+                    "blue": 48
+                },
+                "color4": {
+                    "red": 136,
+                    "green": 0,
+                    "blue": 40
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Toronto Blue Jays": {
+        "name": "Toronto Blue Jays",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 24,
+                    "green": 104,
+                    "blue": 192
+                },
+                "color2": {
+                    "red": 16,
+                    "green": 80,
+                    "blue": 152
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 64,
+                    "blue": 112
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 40,
+                    "blue": 72
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 224,
+                    "green": 0,
+                    "blue": 48
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 0,
+                    "blue": 32
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 0,
+                    "blue": 16
+                },
+                "color4": {
+                    "red": 128,
+                    "green": 0,
+                    "blue": 0
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Custom Team Red": {
+        "name": "Custom Team Red",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 232,
+                    "green": 8,
+                    "blue": 16
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 8,
+                    "blue": 16
+                },
+                "color3": {
+                    "red": 152,
+                    "green": 8,
+                    "blue": 8
+                },
+                "color4": {
+                    "red": 120,
+                    "green": 8,
+                    "blue": 8
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 232,
+                    "green": 8,
+                    "blue": 16
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 8,
+                    "blue": 16
+                },
+                "color3": {
+                    "red": 152,
+                    "green": 8,
+                    "blue": 8
+                },
+                "color4": {
+                    "red": 120,
+                    "green": 8,
+                    "blue": 8
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 192,
+                    "green": 8,
+                    "blue": 16
+                },
+                "color2": {
+                    "red": 152,
+                    "green": 8,
+                    "blue": 8
+                },
+                "color3": {
+                    "red": 120,
+                    "green": 8,
+                    "blue": 8
+                }
+            }
+        }
+    },
+    "Custom Team Blue": {
+        "name": "Custom Team Blue",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 24,
+                    "green": 56,
+                    "blue": 240
+                },
+                "color2": {
+                    "red": 24,
+                    "green": 40,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 32,
+                    "blue": 152
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 24,
+                    "blue": 104
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 24,
+                    "green": 56,
+                    "blue": 240
+                },
+                "color2": {
+                    "red": 24,
+                    "green": 40,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 32,
+                    "blue": 152
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 24,
+                    "blue": 104
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 24,
+                    "green": 40,
+                    "blue": 192
+                },
+                "color2": {
+                    "red": 16,
+                    "green": 32,
+                    "blue": 152
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 24,
+                    "blue": 104
+                }
+            }
+        }
+    },
+    "Custom Team Yellow": {
+        "name": "Custom Team Yellow",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 248,
+                    "green": 240,
+                    "blue": 24
+                },
+                "color2": {
+                    "red": 200,
+                    "green": 192,
+                    "blue": 24
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 152,
+                    "blue": 16
+                },
+                "color4": {
+                    "red": 112,
+                    "green": 112,
+                    "blue": 8
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 248,
+                    "green": 240,
+                    "blue": 24
+                },
+                "color2": {
+                    "red": 200,
+                    "green": 192,
+                    "blue": 24
+                },
+                "color3": {
+                    "red": 160,
+                    "green": 152,
+                    "blue": 16
+                },
+                "color4": {
+                    "red": 112,
+                    "green": 112,
+                    "blue": 8
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 200,
+                    "green": 192,
+                    "blue": 24
+                },
+                "color2": {
+                    "red": 160,
+                    "green": 152,
+                    "blue": 16
+                },
+                "color3": {
+                    "red": 112,
+                    "green": 112,
+                    "blue": 8
+                }
+            }
+        }
+    },
+    "Custom Team Green": {
+        "name": "Custom Team Green",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 32,
+                    "green": 192,
+                    "blue": 16
+                },
+                "color2": {
+                    "red": 24,
+                    "green": 152,
+                    "blue": 16
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 112,
+                    "blue": 8
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 80,
+                    "blue": 8
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 32,
+                    "green": 192,
+                    "blue": 16
+                },
+                "color2": {
+                    "red": 24,
+                    "green": 152,
+                    "blue": 16
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 112,
+                    "blue": 8
+                },
+                "color4": {
+                    "red": 8,
+                    "green": 80,
+                    "blue": 8
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 24,
+                    "green": 152,
+                    "blue": 16
+                },
+                "color2": {
+                    "red": 16,
+                    "green": 112,
+                    "blue": 8
+                },
+                "color3": {
+                    "red": 8,
+                    "green": 80,
+                    "blue": 8
+                }
+            }
+        }
+    },
+    "Custom Team Purple": {
+        "name": "Custom Team Purple",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 168,
+                    "green": 24,
+                    "blue": 192
+                },
+                "color2": {
+                    "red": 136,
+                    "green": 16,
+                    "blue": 152
+                },
+                "color3": {
+                    "red": 104,
+                    "green": 16,
+                    "blue": 120
+                },
+                "color4": {
+                    "red": 80,
+                    "green": 0,
+                    "blue": 88
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 168,
+                    "green": 24,
+                    "blue": 192
+                },
+                "color2": {
+                    "red": 136,
+                    "green": 16,
+                    "blue": 152
+                },
+                "color3": {
+                    "red": 104,
+                    "green": 16,
+                    "blue": 120
+                },
+                "color4": {
+                    "red": 80,
+                    "green": 0,
+                    "blue": 88
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 136,
+                    "green": 16,
+                    "blue": 152
+                },
+                "color2": {
+                    "red": 104,
+                    "green": 16,
+                    "blue": 120
+                },
+                "color3": {
+                    "red": 80,
+                    "green": 0,
+                    "blue": 88
+                }
+            }
+        }
+    },
+    "Custom Team Orange": {
+        "name": "Custom Team Orange",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 232,
+                    "green": 120,
+                    "blue": 0
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 104,
+                    "blue": 0
+                },
+                "color3": {
+                    "red": 114,
+                    "green": 80,
+                    "blue": 0
+                },
+                "color4": {
+                    "red": 104,
+                    "green": 56,
+                    "blue": 0
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 232,
+                    "green": 120,
+                    "blue": 0
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 104,
+                    "blue": 0
+                },
+                "color3": {
+                    "red": 114,
+                    "green": 80,
+                    "blue": 0
+                },
+                "color4": {
+                    "red": 104,
+                    "green": 56,
+                    "blue": 0
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 192,
+                    "green": 104,
+                    "blue": 0
+                },
+                "color2": {
+                    "red": 114,
+                    "green": 80,
+                    "blue": 0
+                },
+                "color3": {
+                    "red": 104,
+                    "green": 56,
+                    "blue": 0
+                }
+            }
+        }
+    },
+    "Custom Team Pink": {
+        "name": "Custom Team Pink",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 248,
+                    "green": 136,
+                    "blue": 224
+                },
+                "color2": {
+                    "red": 216,
+                    "green": 112,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 96,
+                    "blue": 160
+                },
+                "color4": {
+                    "red": 144,
+                    "green": 80,
+                    "blue": 128
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 248,
+                    "green": 136,
+                    "blue": 224
+                },
+                "color2": {
+                    "red": 216,
+                    "green": 112,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 96,
+                    "blue": 160
+                },
+                "color4": {
+                    "red": 144,
+                    "green": 80,
+                    "blue": 128
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 112,
+                    "blue": 192
+                },
+                "color2": {
+                    "red": 176,
+                    "green": 96,
+                    "blue": 160
+                },
+                "color3": {
+                    "red": 144,
+                    "green": 80,
+                    "blue": 128
+                }
+            }
+        }
+    },
+    "Custom Team White": {
+        "name": "Custom Team White",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 240,
+                    "green": 240,
+                    "blue": 240
+                },
+                "color2": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color3": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color4": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 240,
+                    "green": 240,
+                    "blue": 240
+                },
+                "color2": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color3": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color4": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 216,
+                    "green": 216,
+                    "blue": 216
+                },
+                "color2": {
+                    "red": 192,
+                    "green": 192,
+                    "blue": 192
+                },
+                "color3": {
+                    "red": 176,
+                    "green": 176,
+                    "blue": 176
+                }
+            }
+        }
+    },
+    "Custom Team Black": {
+        "name": "Custom Team Black",
+        "uniform": {
+            "hat": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "brim_sleeves_collar": {
+                "color1": {
+                    "red": 80,
+                    "green": 80,
+                    "blue": 80
+                },
+                "color2": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color3": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color4": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            },
+            "jersey": {
+                "color1": {
+                    "red": 56,
+                    "green": 56,
+                    "blue": 56
+                },
+                "color2": {
+                    "red": 40,
+                    "green": 40,
+                    "blue": 40
+                },
+                "color3": {
+                    "red": 16,
+                    "green": 16,
+                    "blue": 16
+                }
+            }
+        }
+    }
+}
