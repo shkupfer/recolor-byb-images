@@ -20,8 +20,9 @@ class Team(BaseModel):
     uniform: Uniform
 
 
-with open("data/team_colors.json", "r") as team_colors_file:
-    team_colors_dct = json.load(team_colors_file)
+def load_team_colors(team_colors_filename: str) -> Dict[str, Team]:
+    with open(team_colors_filename, "r") as team_colors_file:
+        team_colors_dct = json.load(team_colors_file)
 
-TEAMS_COLORS = {name: Team.parse_obj(team) for name, team in team_colors_dct.items()}
-BASE_COLORS = TEAMS_COLORS["Color Separated Scheme"]
+    teams_colors = {name: Team.parse_obj(team) for name, team in team_colors_dct.items()}
+    return teams_colors
