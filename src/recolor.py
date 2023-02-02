@@ -47,23 +47,23 @@ if __name__ == "__main__":
     parser.add_argument(
         "--teams-file",
         "-tf",
-        default=os.path.join("sample_data", "players_teams.json"),
+        default="sample_data/players_teams.json",
         help="A .json file containing a mapping of player names to color names and base images",
     )
     parser.add_argument(
         "--colors-file",
         "-cf",
-        default=os.path.join("sample_data", "team_colors.json"),
+        default="sample_data/team_colors.json",
         help="A .json file containing the definition of each color referenced in the teams-file .json",
     )
     parser.add_argument(
         "--base-images-dir",
         "-imgs",
-        default=os.path.join("sample_data", "player_images"),
+        default="sample_data/player_images/",
         help="Directory containing base images, with filenames corresponding to the teams-file. " +
         "These images should be colored with the base color scheme",
     )
-    parser.add_argument("--output-images-dir", "-o", default=os.path.join("sample_data", "outputs"))
+    parser.add_argument("--output-images-dir", "-o", default="sample_data/outputs/")
     parser.add_argument(
         "--names", "-n", nargs="*", help="Recolor only the images of these players." +
         "If not specified, recolor all players' images",
