@@ -39,25 +39,25 @@ if __name__ == "__main__":
     parser.add_argument(
         "--teams-file",
         "-tf",
-        default="data/players_teams.json",
+        default="sample_data/players_teams.json",
         required=True,
         help="A .json file containing a mapping of player names to color names and base images",
     )
     parser.add_argument(
         "--colors-file",
         "-cf",
-        default="data/team_colors.json",
+        default="sample_data/team_colors.json",
         required=True,
         help="A .json file containing the definition of each color referenced in the teams-file .json",
     )
     parser.add_argument(
         "--base-images-dir",
         "-imgs",
-        default="data/player_images/",
+        default="sample_data/player_images/",
         help="Directory containing base images, with filenames corresponding to the teams-file. " +
         "These images should be colored with the base color scheme",
     )
-    parser.add_argument("--output-images-dir", "-o", default="data/outputs/")
+    parser.add_argument("--output-images-dir", "-o", default="sample_data/outputs/")
     which_players_arg_grp = parser.add_mutually_exclusive_group(required=True)
     which_players_arg_grp.add_argument("--all", "-a", action="store_true", help="Recolor all players' images")
     which_players_arg_grp.add_argument("--names", "-n", nargs="*", help="Recolor only the images of these players")
@@ -74,6 +74,8 @@ if __name__ == "__main__":
 
     teams_colors = load_team_colors(args.colors_file)
     base_colors = teams_colors["Base"]
+
+    os.makedirs(args.output_images_dir, exist_ok=True)
 
     for player_name in recolor_player_names:
         player_img_colors = players_teams_colors[player_name]
